@@ -1,0 +1,62 @@
+#ind_heading{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+    color: blueviolet;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 300px;
+  }
+  p.Htext {
+      text-align: center;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      color: blueviolet;
+      font-size: large;
+  }
+  div.table-form {
+      background-color: rgb(107, 90, 205);
+      border: blue;
+      border-style: solid;
+      color: white;
+      font-size: medium;
+      width: max-content;
+      margin-right: auto;
+      margin-left: auto;
+  }
+  td.data {
+      width: 150px;
+      padding: 15px;
+  }
+  input.inp-box{
+      width: 130px;
+  }
+  div.submit{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: max-content;
+  }
+  p.Thank{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(29, 148, 49);
+    font-size: xx-large;
+  } 
+  p.text2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(126, 27, 172);
+    font-size: x-large;
+  }
+  p.text3{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(89, 20, 121);
+    font-size: xx-large;
+  }
